@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/babylonjs-typescript-starter.iml" filepath="$PROJECT_DIR$/.idea/babylonjs-typescript-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/babylonjs-color_change.iml" filepath="$PROJECT_DIR$/.idea/babylonjs-color_change.iml" />
     </modules>
   </component>
 </project>
