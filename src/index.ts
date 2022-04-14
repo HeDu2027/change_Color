@@ -32,6 +32,7 @@ const mesh = MeshBuilder.CreateGround("mesh", {}, scene)
 const material =  new SampleMaterial("material", scene)
 mesh.material = material
 
+
 engine.runRenderLoop(() => {
     scene.render();
 })
